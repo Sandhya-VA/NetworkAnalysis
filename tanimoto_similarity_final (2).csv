@@ -1,0 +1,989 @@
+Drug Candidate,Drug_Category,Comparison_Drug,Tanimoto_similarity,Weights
+Maprotiline,Approved,Donepezil,0.10435091,0.10435091
+Maprotiline,Approved,Galantamine,0.338363469,0.338363469
+Maprotiline,Approved,Rivastigmine,0.442754479,0.442754479
+Maprotiline,Approved,Memantine,0.028820868,0.028820868
+Maprotiline,Approved,Brexpiprazole,0.051395529,0.051395529
+Maprotiline,Approved,Suvorexant,0.501142171,0.501142171
+Maprotiline,Failed ,Elenbecestat,0.685794734,-0.685794734
+Maprotiline,Failed ,Atabecestat,0.562656868,-0.562656868
+Maprotiline,Failed ,Lanabecestat,0.222188526,-0.222188526
+Maprotiline,Failed ,Verubecestat,0.228215401,-0.228215401
+Maprotiline,Failed ,Azeliragon,0.341675942,-0.341675942
+Maprotiline,Failed ,Nilvadipine,0.625935571,-0.625935571
+Maprotiline,Failed ,Pioglitazone,0.67643596,-0.67643596
+Maprotiline,Failed ,Tarenflurbil,0.360203689,-0.360203689
+Maprotiline,Phase 1,Allopregnanolone,0.829319946,0.165863989
+Maprotiline,Phase 1,Contraloid acetate,0.595830313,0.119166063
+Maprotiline,Phase 1,Dabigatran,0.467157393,0.093431479
+Maprotiline,Phase 1,Efavirenz,0.60529886,0.121059772
+Maprotiline,Phase 1,Emtricitabine,0.457967683,0.091593537
+Maprotiline,Phase 1,Salsalate,0.975377441,0.195075488
+Maprotiline,Phase 1,Telmisartan,0.784540896,0.156908179
+Maprotiline,Phase 1,Trehalose,0.251206559,0.050241312
+Maprotiline,Phase 1,Vorinostat,0.94119563,0.188239126
+Maprotiline,Phase 2,Baricitinib,0.965667713,0.386267085
+Maprotiline,Phase 2,Bromocriptine,0.000523777,0.000209511
+Maprotiline,Phase 2,CY6463,0.534173496,0.213669399
+Maprotiline,Phase 2,Dapagliflozin,0.674066781,0.269626712
+Maprotiline,Phase 2,Deferiprone,0.395321458,0.158128583
+Maprotiline,Phase 2,Lenalidomide,0.402711285,0.161084514
+Maprotiline,Phase 3,Brexpiprazole,0.141748097,0.085048858
+Maprotiline,Phase 3,Hydralazine,0.808776077,0.485265646
+Maprotiline,Phase 3,Metformin,0.783309806,0.469985884
+Maprotiline,Phase 3,Semaglutide,0.262021031,0.157212619
+Maprotiline,Phase 3,Tricaprilin,0.530275239,0.318165143
+Maprotiline,Phase 3,Nabilone,0.943352482,0.566011489
+Maprotiline,Phase 3,Hydralazine,0.80224834,0.481349004
+Maprotiline,Phase 3,Guanfacine,0.054038583,0.03242315
+Maprotiline,Phase 3,Caffeine,0.703474479,0.422084687
+Dextromethorphan,Approved,Donepezil,0.785843562,0.785843562
+Dextromethorphan,Approved,Galantamine,0.885939991,0.885939991
+Dextromethorphan,Approved,Rivastigmine,0.497944694,0.497944694
+Dextromethorphan,Approved,Memantine,0.966962656,0.966962656
+Dextromethorphan,Approved,Brexpiprazole,0.059521834,0.059521834
+Dextromethorphan,Approved,Suvorexant,0.26592696,0.26592696
+Dextromethorphan,Failed ,Elenbecestat,0.684488209,-0.684488209
+Dextromethorphan,Failed ,Atabecestat,0.856912389,-0.856912389
+Dextromethorphan,Failed ,Lanabecestat,0.958373181,-0.958373181
+Dextromethorphan,Failed ,Verubecestat,0.502709694,-0.502709694
+Dextromethorphan,Failed ,Azeliragon,0.103135249,-0.103135249
+Dextromethorphan,Failed ,Nilvadipine,0.608301427,-0.608301427
+Dextromethorphan,Failed ,Pioglitazone,0.937955513,-0.937955513
+Dextromethorphan,Failed ,Tarenflurbil,0.727081507,-0.727081507
+Dextromethorphan,Phase 1,Allopregnanolone,0.173486089,0.034697218
+Dextromethorphan,Phase 1,Contraloid acetate,0.524464645,0.104892929
+Dextromethorphan,Phase 1,Dabigatran,0.639380796,0.127876159
+Dextromethorphan,Phase 1,Efavirenz,0.099910343,0.019982069
+Dextromethorphan,Phase 1,Emtricitabine,0.437361355,0.087472271
+Dextromethorphan,Phase 1,Salsalate,0.499913846,0.099982769
+Dextromethorphan,Phase 1,Telmisartan,0.573068803,0.114613761
+Dextromethorphan,Phase 1,Trehalose,0.978442993,0.195688599
+Dextromethorphan,Phase 1,Vorinostat,0.547511217,0.109502243
+Dextromethorphan,Phase 2,Baricitinib,0.769531259,0.307812504
+Dextromethorphan,Phase 2,Bromocriptine,0.990064522,0.396025809
+Dextromethorphan,Phase 2,CY6463,0.104009178,0.041603671
+Dextromethorphan,Phase 2,Dapagliflozin,0.731935787,0.292774315
+Dextromethorphan,Phase 2,Deferiprone,0.664831766,0.265932706
+Dextromethorphan,Phase 2,Lenalidomide,0.422435232,0.168974093
+Dextromethorphan,Phase 3,Brexpiprazole,0.868252213,0.520951328
+Dextromethorphan,Phase 3,Hydralazine,0.055882517,0.03352951
+Dextromethorphan,Phase 3,Metformin,0.550341407,0.330204844
+Dextromethorphan,Phase 3,Semaglutide,0.996175828,0.597705497
+Dextromethorphan,Phase 3,Tricaprilin,0.083763294,0.050257976
+Dextromethorphan,Phase 3,Nabilone,0.346519343,0.207911606
+Dextromethorphan,Phase 3,Hydralazine,0.272894336,0.163736601
+Dextromethorphan,Phase 3,Guanfacine,0.529735244,0.317841147
+Dextromethorphan,Phase 3,Caffeine,0.080557958,0.048334775
+Vindesine,Approved,Donepezil,0.413477185,0.413477185
+Vindesine,Approved,Galantamine,0.644173512,0.644173512
+Vindesine,Approved,Rivastigmine,0.546541216,0.546541216
+Vindesine,Approved,Memantine,0.638554584,0.638554584
+Vindesine,Approved,Brexpiprazole,0.08896412,0.08896412
+Vindesine,Approved,Suvorexant,0.442503359,0.442503359
+Vindesine,Failed ,Elenbecestat,0.352249505,-0.352249505
+Vindesine,Failed ,Atabecestat,0.972169878,-0.972169878
+Vindesine,Failed ,Lanabecestat,0.254774915,-0.254774915
+Vindesine,Failed ,Verubecestat,0.680373985,-0.680373985
+Vindesine,Failed ,Azeliragon,0.116679538,-0.116679538
+Vindesine,Failed ,Nilvadipine,0.727729594,-0.727729594
+Vindesine,Failed ,Pioglitazone,0.536075665,-0.536075665
+Vindesine,Failed ,Tarenflurbil,0.779720367,-0.779720367
+Vindesine,Phase 1,Allopregnanolone,0.342125609,0.068425122
+Vindesine,Phase 1,Contraloid acetate,0.109982195,0.021996439
+Vindesine,Phase 1,Dabigatran,0.870479044,0.174095809
+Vindesine,Phase 1,Efavirenz,0.39227634,0.078455268
+Vindesine,Phase 1,Emtricitabine,0.578353926,0.115670785
+Vindesine,Phase 1,Salsalate,0.014482221,0.002896444
+Vindesine,Phase 1,Telmisartan,0.825980473,0.165196095
+Vindesine,Phase 1,Trehalose,0.919532846,0.183906569
+Vindesine,Phase 1,Vorinostat,0.181559086,0.036311817
+Vindesine,Phase 2,Baricitinib,0.430390634,0.172156253
+Vindesine,Phase 2,Bromocriptine,0.007784592,0.003113837
+Vindesine,Phase 2,CY6463,0.92656752,0.370627008
+Vindesine,Phase 2,Dapagliflozin,0.243076006,0.097230402
+Vindesine,Phase 2,Deferiprone,0.159998068,0.063999227
+Vindesine,Phase 2,Lenalidomide,0.309557867,0.123823147
+Vindesine,Phase 3,Brexpiprazole,0.231425484,0.13885529
+Vindesine,Phase 3,Hydralazine,0.618589928,0.371153957
+Vindesine,Phase 3,Metformin,0.278574711,0.167144827
+Vindesine,Phase 3,Semaglutide,0.733875637,0.440325382
+Vindesine,Phase 3,Tricaprilin,0.997106252,0.598263751
+Vindesine,Phase 3,Nabilone,0.911667015,0.547000209
+Vindesine,Phase 3,Hydralazine,0.350861755,0.210517053
+Vindesine,Phase 3,Guanfacine,0.662036191,0.397221715
+Vindesine,Phase 3,Caffeine,0.125273701,0.075164221
+Streptozocin,Approved,Donepezil,0.984536414,0.984536414
+Streptozocin,Approved,Galantamine,0.05046331,0.05046331
+Streptozocin,Approved,Rivastigmine,0.288979668,0.288979668
+Streptozocin,Approved,Memantine,0.593838419,0.593838419
+Streptozocin,Approved,Brexpiprazole,0.635867811,0.635867811
+Streptozocin,Approved,Suvorexant,0.3955024,0.3955024
+Streptozocin,Failed ,Elenbecestat,0.755646595,-0.755646595
+Streptozocin,Failed ,Atabecestat,0.351705123,-0.351705123
+Streptozocin,Failed ,Lanabecestat,0.862580399,-0.862580399
+Streptozocin,Failed ,Verubecestat,0.974612803,-0.974612803
+Streptozocin,Failed ,Azeliragon,0.556609402,-0.556609402
+Streptozocin,Failed ,Nilvadipine,0.52086323,-0.52086323
+Streptozocin,Failed ,Pioglitazone,0.219782943,-0.219782943
+Streptozocin,Failed ,Tarenflurbil,0.104234896,-0.104234896
+Streptozocin,Phase 1,Allopregnanolone,0.015395622,0.003079124
+Streptozocin,Phase 1,Contraloid acetate,0.665864887,0.133172977
+Streptozocin,Phase 1,Dabigatran,0.751966307,0.150393261
+Streptozocin,Phase 1,Efavirenz,0.953786732,0.190757346
+Streptozocin,Phase 1,Emtricitabine,0.946574725,0.189314945
+Streptozocin,Phase 1,Salsalate,0.909028068,0.181805614
+Streptozocin,Phase 1,Telmisartan,0.245159219,0.049031844
+Streptozocin,Phase 1,Trehalose,0.621504021,0.124300804
+Streptozocin,Phase 1,Vorinostat,0.370909607,0.074181921
+Streptozocin,Phase 2,Baricitinib,0.332857105,0.133142842
+Streptozocin,Phase 2,Bromocriptine,0.066459707,0.026583883
+Streptozocin,Phase 2,CY6463,0.280328401,0.112131361
+Streptozocin,Phase 2,Dapagliflozin,0.56554446,0.226217784
+Streptozocin,Phase 2,Deferiprone,0.553273711,0.221309484
+Streptozocin,Phase 2,Lenalidomide,0.780145041,0.312058016
+Streptozocin,Phase 3,Brexpiprazole,0.064192389,0.038515433
+Streptozocin,Phase 3,Hydralazine,0.24625005,0.14775003
+Streptozocin,Phase 3,Metformin,0.870609776,0.522365866
+Streptozocin,Phase 3,Semaglutide,0.828844014,0.497306409
+Streptozocin,Phase 3,Tricaprilin,0.340084883,0.20405093
+Streptozocin,Phase 3,Nabilone,0.667320235,0.400392141
+Streptozocin,Phase 3,Hydralazine,0.450188912,0.270113347
+Streptozocin,Phase 3,Guanfacine,0.332340535,0.199404321
+Streptozocin,Phase 3,Caffeine,0.5978761,0.35872566
+Xanthine,Approved,Donepezil,0.495730364,0.495730364
+Xanthine,Approved,Galantamine,0.441317868,0.441317868
+Xanthine,Approved,Rivastigmine,0.421761135,0.421761135
+Xanthine,Approved,Memantine,0.420838272,0.420838272
+Xanthine,Approved,Brexpiprazole,0.477642674,0.477642674
+Xanthine,Approved,Suvorexant,0.908203381,0.908203381
+Xanthine,Failed ,Elenbecestat,0.846198112,-0.846198112
+Xanthine,Failed ,Atabecestat,0.661678309,-0.661678309
+Xanthine,Failed ,Lanabecestat,0.377310255,-0.377310255
+Xanthine,Failed ,Verubecestat,0.392152784,-0.392152784
+Xanthine,Failed ,Azeliragon,0.444866037,-0.444866037
+Xanthine,Failed ,Nilvadipine,0.640130806,-0.640130806
+Xanthine,Failed ,Pioglitazone,0.281521228,-0.281521228
+Xanthine,Failed ,Tarenflurbil,0.676875057,-0.676875057
+Xanthine,Phase 1,Allopregnanolone,0.561831055,0.112366211
+Xanthine,Phase 1,Contraloid acetate,0.811973951,0.16239479
+Xanthine,Phase 1,Dabigatran,0.236010119,0.047202024
+Xanthine,Phase 1,Efavirenz,0.863728678,0.172745736
+Xanthine,Phase 1,Emtricitabine,0.385374561,0.077074912
+Xanthine,Phase 1,Salsalate,0.852475583,0.170495117
+Xanthine,Phase 1,Telmisartan,0.411585534,0.082317107
+Xanthine,Phase 1,Trehalose,0.893787937,0.178757587
+Xanthine,Phase 1,Vorinostat,0.536168666,0.107233733
+Xanthine,Phase 2,Baricitinib,0.135131805,0.054052722
+Xanthine,Phase 2,Bromocriptine,0.530506707,0.212202683
+Xanthine,Phase 2,CY6463,0.973971898,0.389588759
+Xanthine,Phase 2,Dapagliflozin,0.890317437,0.356126975
+Xanthine,Phase 2,Deferiprone,0.373427358,0.149370943
+Xanthine,Phase 2,Lenalidomide,0.862246639,0.344898655
+Xanthine,Phase 3,Brexpiprazole,0.247501683,0.14850101
+Xanthine,Phase 3,Hydralazine,0.219350227,0.131610136
+Xanthine,Phase 3,Metformin,0.88580007,0.531480042
+Xanthine,Phase 3,Semaglutide,0.791321799,0.474793079
+Xanthine,Phase 3,Tricaprilin,0.796047914,0.477628749
+Xanthine,Phase 3,Nabilone,0.352045614,0.211227369
+Xanthine,Phase 3,Hydralazine,0.461595666,0.276957399
+Xanthine,Phase 3,Guanfacine,0.310001531,0.186000919
+Xanthine,Phase 3,Caffeine,0.569621416,0.34177285
+Olanzapine,Approved,Donepezil,0.783827075,0.783827075
+Olanzapine,Approved,Galantamine,0.517317186,0.517317186
+Olanzapine,Approved,Rivastigmine,0.441084422,0.441084422
+Olanzapine,Approved,Memantine,0.300164699,0.300164699
+Olanzapine,Approved,Brexpiprazole,0.44752418,0.44752418
+Olanzapine,Approved,Suvorexant,0.381967706,0.381967706
+Olanzapine,Failed ,Elenbecestat,0.531809262,-0.531809262
+Olanzapine,Failed ,Atabecestat,0.916025636,-0.916025636
+Olanzapine,Failed ,Lanabecestat,0.380722749,-0.380722749
+Olanzapine,Failed ,Verubecestat,0.166605651,-0.166605651
+Olanzapine,Failed ,Azeliragon,0.971228676,-0.971228676
+Olanzapine,Failed ,Nilvadipine,0.58523693,-0.58523693
+Olanzapine,Failed ,Pioglitazone,0.952191578,-0.952191578
+Olanzapine,Failed ,Tarenflurbil,0.99966523,-0.99966523
+Olanzapine,Phase 1,Allopregnanolone,0.592566357,0.118513271
+Olanzapine,Phase 1,Contraloid acetate,0.019477438,0.003895488
+Olanzapine,Phase 1,Dabigatran,0.827232574,0.165446515
+Olanzapine,Phase 1,Efavirenz,0.849394726,0.169878945
+Olanzapine,Phase 1,Emtricitabine,0.17276439,0.034552878
+Olanzapine,Phase 1,Salsalate,0.847383167,0.169476633
+Olanzapine,Phase 1,Telmisartan,0.127097285,0.025419457
+Olanzapine,Phase 1,Trehalose,0.848648609,0.169729722
+Olanzapine,Phase 1,Vorinostat,0.752331786,0.150466357
+Olanzapine,Phase 2,Baricitinib,0.274228871,0.109691548
+Olanzapine,Phase 2,Bromocriptine,0.566192675,0.22647707
+Olanzapine,Phase 2,CY6463,0.064765958,0.025906383
+Olanzapine,Phase 2,Dapagliflozin,0.309521549,0.12380862
+Olanzapine,Phase 2,Deferiprone,0.159246301,0.063698521
+Olanzapine,Phase 2,Lenalidomide,0.491266802,0.196506721
+Olanzapine,Phase 3,Brexpiprazole,0.067449997,0.040469998
+Olanzapine,Phase 3,Hydralazine,0.556484676,0.333890806
+Olanzapine,Phase 3,Metformin,0.132622369,0.079573421
+Olanzapine,Phase 3,Semaglutide,0.924225453,0.554535272
+Olanzapine,Phase 3,Tricaprilin,0.822017131,0.493210278
+Olanzapine,Phase 3,Nabilone,0.473475313,0.284085188
+Olanzapine,Phase 3,Hydralazine,0.173849244,0.104309546
+Olanzapine,Phase 3,Guanfacine,0.026511383,0.01590683
+Olanzapine,Phase 3,Caffeine,0.76859854,0.461159124
+N-(3-Propylcarbamoyloxirane-2-Carbonyl)-Isoleucyl-Proline,Approved,Donepezil,0.434292006,0.434292006
+N-(3-Propylcarbamoyloxirane-2-Carbonyl)-Isoleucyl-Proline,Approved,Galantamine,0.669366005,0.669366005
+N-(3-Propylcarbamoyloxirane-2-Carbonyl)-Isoleucyl-Proline,Approved,Rivastigmine,0.972275641,0.972275641
+N-(3-Propylcarbamoyloxirane-2-Carbonyl)-Isoleucyl-Proline,Approved,Memantine,0.294060311,0.294060311
+N-(3-Propylcarbamoyloxirane-2-Carbonyl)-Isoleucyl-Proline,Approved,Brexpiprazole,0.915856715,0.915856715
+N-(3-Propylcarbamoyloxirane-2-Carbonyl)-Isoleucyl-Proline,Approved,Suvorexant,0.423696863,0.423696863
+N-(3-Propylcarbamoyloxirane-2-Carbonyl)-Isoleucyl-Proline,Failed ,Elenbecestat,0.645048881,-0.645048881
+N-(3-Propylcarbamoyloxirane-2-Carbonyl)-Isoleucyl-Proline,Failed ,Atabecestat,0.342567088,-0.342567088
+N-(3-Propylcarbamoyloxirane-2-Carbonyl)-Isoleucyl-Proline,Failed ,Lanabecestat,0.157199422,-0.157199422
+N-(3-Propylcarbamoyloxirane-2-Carbonyl)-Isoleucyl-Proline,Failed ,Verubecestat,0.589562618,-0.589562618
+N-(3-Propylcarbamoyloxirane-2-Carbonyl)-Isoleucyl-Proline,Failed ,Azeliragon,0.645566319,-0.645566319
+N-(3-Propylcarbamoyloxirane-2-Carbonyl)-Isoleucyl-Proline,Failed ,Nilvadipine,0.11255068,-0.11255068
+N-(3-Propylcarbamoyloxirane-2-Carbonyl)-Isoleucyl-Proline,Failed ,Pioglitazone,0.248599563,-0.248599563
+N-(3-Propylcarbamoyloxirane-2-Carbonyl)-Isoleucyl-Proline,Failed ,Tarenflurbil,0.756448224,-0.756448224
+N-(3-Propylcarbamoyloxirane-2-Carbonyl)-Isoleucyl-Proline,Phase 1,Allopregnanolone,0.305686083,0.061137217
+N-(3-Propylcarbamoyloxirane-2-Carbonyl)-Isoleucyl-Proline,Phase 1,Contraloid acetate,0.375218068,0.075043614
+N-(3-Propylcarbamoyloxirane-2-Carbonyl)-Isoleucyl-Proline,Phase 1,Dabigatran,0.057263829,0.011452766
+N-(3-Propylcarbamoyloxirane-2-Carbonyl)-Isoleucyl-Proline,Phase 1,Efavirenz,0.678094027,0.135618805
+N-(3-Propylcarbamoyloxirane-2-Carbonyl)-Isoleucyl-Proline,Phase 1,Emtricitabine,0.291531025,0.058306205
+N-(3-Propylcarbamoyloxirane-2-Carbonyl)-Isoleucyl-Proline,Phase 1,Salsalate,0.88222001,0.176444002
+N-(3-Propylcarbamoyloxirane-2-Carbonyl)-Isoleucyl-Proline,Phase 1,Telmisartan,0.964236121,0.192847224
+N-(3-Propylcarbamoyloxirane-2-Carbonyl)-Isoleucyl-Proline,Phase 1,Trehalose,0.072761999,0.0145524
+N-(3-Propylcarbamoyloxirane-2-Carbonyl)-Isoleucyl-Proline,Phase 1,Vorinostat,0.125929994,0.025185999
+N-(3-Propylcarbamoyloxirane-2-Carbonyl)-Isoleucyl-Proline,Phase 2,Baricitinib,0.22582169,0.090328676
+N-(3-Propylcarbamoyloxirane-2-Carbonyl)-Isoleucyl-Proline,Phase 2,Bromocriptine,0.127530508,0.051012203
+N-(3-Propylcarbamoyloxirane-2-Carbonyl)-Isoleucyl-Proline,Phase 2,CY6463,0.413737143,0.165494857
+N-(3-Propylcarbamoyloxirane-2-Carbonyl)-Isoleucyl-Proline,Phase 2,Dapagliflozin,0.242483899,0.09699356
+N-(3-Propylcarbamoyloxirane-2-Carbonyl)-Isoleucyl-Proline,Phase 2,Deferiprone,0.958572993,0.383429197
+N-(3-Propylcarbamoyloxirane-2-Carbonyl)-Isoleucyl-Proline,Phase 2,Lenalidomide,0.66948738,0.267794952
+N-(3-Propylcarbamoyloxirane-2-Carbonyl)-Isoleucyl-Proline,Phase 3,Brexpiprazole,0.902496894,0.541498137
+N-(3-Propylcarbamoyloxirane-2-Carbonyl)-Isoleucyl-Proline,Phase 3,Hydralazine,0.530723386,0.318434031
+N-(3-Propylcarbamoyloxirane-2-Carbonyl)-Isoleucyl-Proline,Phase 3,Metformin,0.191809924,0.115085954
+N-(3-Propylcarbamoyloxirane-2-Carbonyl)-Isoleucyl-Proline,Phase 3,Semaglutide,0.053962029,0.032377217
+N-(3-Propylcarbamoyloxirane-2-Carbonyl)-Isoleucyl-Proline,Phase 3,Tricaprilin,0.719180734,0.431508441
+N-(3-Propylcarbamoyloxirane-2-Carbonyl)-Isoleucyl-Proline,Phase 3,Nabilone,0.280134464,0.168080678
+N-(3-Propylcarbamoyloxirane-2-Carbonyl)-Isoleucyl-Proline,Phase 3,Hydralazine,0.689359728,0.413615837
+N-(3-Propylcarbamoyloxirane-2-Carbonyl)-Isoleucyl-Proline,Phase 3,Guanfacine,0.032430085,0.019458051
+N-(3-Propylcarbamoyloxirane-2-Carbonyl)-Isoleucyl-Proline,Phase 3,Caffeine,0.543606429,0.326163857
+Staurosporine,Approved,Donepezil,0.601222999,0.601222999
+Staurosporine,Approved,Galantamine,0.853453693,0.853453693
+Staurosporine,Approved,Rivastigmine,0.162809907,0.162809907
+Staurosporine,Approved,Memantine,0.722948143,0.722948143
+Staurosporine,Approved,Brexpiprazole,0.540905462,0.540905462
+Staurosporine,Approved,Suvorexant,0.590677781,0.590677781
+Staurosporine,Failed ,Elenbecestat,0.198013885,-0.198013885
+Staurosporine,Failed ,Atabecestat,0.280469751,-0.280469751
+Staurosporine,Failed ,Lanabecestat,0.551194776,-0.551194776
+Staurosporine,Failed ,Verubecestat,0.512183558,-0.512183558
+Staurosporine,Failed ,Azeliragon,0.14097945,-0.14097945
+Staurosporine,Failed ,Nilvadipine,0.325024966,-0.325024966
+Staurosporine,Failed ,Pioglitazone,0.328433542,-0.328433542
+Staurosporine,Failed ,Tarenflurbil,0.895966202,-0.895966202
+Staurosporine,Phase 1,Allopregnanolone,0.558464628,0.111692926
+Staurosporine,Phase 1,Contraloid acetate,0.074065193,0.014813039
+Staurosporine,Phase 1,Dabigatran,0.372541693,0.074508339
+Staurosporine,Phase 1,Efavirenz,0.354819103,0.070963821
+Staurosporine,Phase 1,Emtricitabine,0.625379302,0.12507586
+Staurosporine,Phase 1,Salsalate,0.659609134,0.131921827
+Staurosporine,Phase 1,Telmisartan,0.408220883,0.081644177
+Staurosporine,Phase 1,Trehalose,0.215808337,0.043161667
+Staurosporine,Phase 1,Vorinostat,0.202584033,0.040516807
+Staurosporine,Phase 2,Baricitinib,0.219332038,0.087732815
+Staurosporine,Phase 2,Bromocriptine,0.451077012,0.180430805
+Staurosporine,Phase 2,CY6463,0.089497075,0.03579883
+Staurosporine,Phase 2,Dapagliflozin,0.077142684,0.030857074
+Staurosporine,Phase 2,Deferiprone,0.419378017,0.167751207
+Staurosporine,Phase 2,Lenalidomide,0.659125192,0.263650077
+Staurosporine,Phase 3,Brexpiprazole,0.35263832,0.211582992
+Staurosporine,Phase 3,Hydralazine,0.1605639,0.09633834
+Staurosporine,Phase 3,Metformin,0.529643794,0.317786276
+Staurosporine,Phase 3,Semaglutide,0.800775532,0.480465319
+Staurosporine,Phase 3,Tricaprilin,0.696924316,0.41815459
+Staurosporine,Phase 3,Nabilone,0.43473249,0.260839494
+Staurosporine,Phase 3,Hydralazine,0.490564397,0.294338638
+Staurosporine,Phase 3,Guanfacine,0.684312301,0.410587381
+Staurosporine,Phase 3,Caffeine,0.97054966,0.582329796
+Phosphoramidon,Approved,Donepezil,0.913941075,0.913941075
+Phosphoramidon,Approved,Galantamine,0.779767354,0.779767354
+Phosphoramidon,Approved,Rivastigmine,0.608874875,0.608874875
+Phosphoramidon,Approved,Memantine,0.994389146,0.994389146
+Phosphoramidon,Approved,Brexpiprazole,0.371441143,0.371441143
+Phosphoramidon,Approved,Suvorexant,0.684532385,0.684532385
+Phosphoramidon,Failed ,Elenbecestat,0.929864338,-0.929864338
+Phosphoramidon,Failed ,Atabecestat,0.964987627,-0.964987627
+Phosphoramidon,Failed ,Lanabecestat,0.255867032,-0.255867032
+Phosphoramidon,Failed ,Verubecestat,0.506937465,-0.506937465
+Phosphoramidon,Failed ,Azeliragon,0.074405202,-0.074405202
+Phosphoramidon,Failed ,Nilvadipine,0.792969792,-0.792969792
+Phosphoramidon,Failed ,Pioglitazone,0.296962414,-0.296962414
+Phosphoramidon,Failed ,Tarenflurbil,0.611992852,-0.611992852
+Phosphoramidon,Phase 1,Allopregnanolone,0.421363116,0.084272623
+Phosphoramidon,Phase 1,Contraloid acetate,0.909796337,0.181959267
+Phosphoramidon,Phase 1,Dabigatran,0.587908344,0.117581669
+Phosphoramidon,Phase 1,Efavirenz,0.214135131,0.042827026
+Phosphoramidon,Phase 1,Emtricitabine,0.490711807,0.098142361
+Phosphoramidon,Phase 1,Salsalate,0.659096228,0.131819246
+Phosphoramidon,Phase 1,Telmisartan,0.224764604,0.044952921
+Phosphoramidon,Phase 1,Trehalose,0.457218598,0.09144372
+Phosphoramidon,Phase 1,Vorinostat,0.313508078,0.062701616
+Phosphoramidon,Phase 2,Baricitinib,0.515439344,0.206175738
+Phosphoramidon,Phase 2,Bromocriptine,0.667875901,0.26715036
+Phosphoramidon,Phase 2,CY6463,0.035769284,0.014307714
+Phosphoramidon,Phase 2,Dapagliflozin,0.025455502,0.010182201
+Phosphoramidon,Phase 2,Deferiprone,0.166016403,0.066406561
+Phosphoramidon,Phase 2,Lenalidomide,0.988069992,0.395227997
+Phosphoramidon,Phase 3,Brexpiprazole,0.700475458,0.420285275
+Phosphoramidon,Phase 3,Hydralazine,0.877397917,0.52643875
+Phosphoramidon,Phase 3,Metformin,0.941653458,0.564992075
+Phosphoramidon,Phase 3,Semaglutide,0.829682181,0.497809309
+Phosphoramidon,Phase 3,Tricaprilin,0.398704842,0.239222905
+Phosphoramidon,Phase 3,Nabilone,0.481034023,0.288620414
+Phosphoramidon,Phase 3,Hydralazine,0.212234273,0.127340564
+Phosphoramidon,Phase 3,Guanfacine,0.092343394,0.055406036
+Phosphoramidon,Phase 3,Caffeine,0.149886747,0.089932048
+Tenamfetamine,Approved,Donepezil,0.459195391,0.459195391
+Tenamfetamine,Approved,Galantamine,0.437310761,0.437310761
+Tenamfetamine,Approved,Rivastigmine,0.549283847,0.549283847
+Tenamfetamine,Approved,Memantine,0.878230491,0.878230491
+Tenamfetamine,Approved,Brexpiprazole,0.93043502,0.93043502
+Tenamfetamine,Approved,Suvorexant,0.90681583,0.90681583
+Tenamfetamine,Failed ,Elenbecestat,0.827866216,-0.827866216
+Tenamfetamine,Failed ,Atabecestat,0.452169876,-0.452169876
+Tenamfetamine,Failed ,Lanabecestat,0.266373234,-0.266373234
+Tenamfetamine,Failed ,Verubecestat,0.176413992,-0.176413992
+Tenamfetamine,Failed ,Azeliragon,0.428094069,-0.428094069
+Tenamfetamine,Failed ,Nilvadipine,0.35681383,-0.35681383
+Tenamfetamine,Failed ,Pioglitazone,0.876439676,-0.876439676
+Tenamfetamine,Failed ,Tarenflurbil,0.862272717,-0.862272717
+Tenamfetamine,Phase 1,Allopregnanolone,0.620755272,0.124151054
+Tenamfetamine,Phase 1,Contraloid acetate,0.430918099,0.08618362
+Tenamfetamine,Phase 1,Dabigatran,0.081217149,0.01624343
+Tenamfetamine,Phase 1,Efavirenz,0.44458138,0.088916276
+Tenamfetamine,Phase 1,Emtricitabine,0.08483457,0.016966914
+Tenamfetamine,Phase 1,Salsalate,0.385928656,0.077185731
+Tenamfetamine,Phase 1,Telmisartan,0.842636444,0.168527289
+Tenamfetamine,Phase 1,Trehalose,0.325180461,0.065036092
+Tenamfetamine,Phase 1,Vorinostat,0.190971543,0.038194309
+Tenamfetamine,Phase 2,Baricitinib,0.223565234,0.089426094
+Tenamfetamine,Phase 2,Bromocriptine,0.609021181,0.243608472
+Tenamfetamine,Phase 2,CY6463,0.073221547,0.029288619
+Tenamfetamine,Phase 2,Dapagliflozin,0.946121701,0.37844868
+Tenamfetamine,Phase 2,Deferiprone,0.8867127,0.35468508
+Tenamfetamine,Phase 2,Lenalidomide,0.183356118,0.073342447
+Tenamfetamine,Phase 3,Brexpiprazole,0.750232723,0.450139634
+Tenamfetamine,Phase 3,Hydralazine,0.5061672,0.30370032
+Tenamfetamine,Phase 3,Metformin,0.222269664,0.133361798
+Tenamfetamine,Phase 3,Semaglutide,0.090498774,0.054299264
+Tenamfetamine,Phase 3,Tricaprilin,0.133769356,0.080261614
+Tenamfetamine,Phase 3,Nabilone,0.018715787,0.011229472
+Tenamfetamine,Phase 3,Hydralazine,0.985447738,0.591268643
+Tenamfetamine,Phase 3,Guanfacine,0.927612811,0.556567687
+Tenamfetamine,Phase 3,Caffeine,0.509405011,0.305643007
+Levodopa,Approved,Donepezil,0.121212121,0.121212121
+Levodopa,Approved,Galantamine,0.056338028,0.056338028
+Levodopa,Approved,Rivastigmine,0.166666667,0.166666667
+Levodopa,Approved,Memantine,0.022222222,0.022222222
+Levodopa,Approved,Brexpiprazole,0.078947368,0.078947368
+Levodopa,Approved,Suvorexant,0.101265823,0.101265823
+Levodopa,Failed ,Elenbecestat,0.758443933,-0.758443933
+Levodopa,Failed ,Atabecestat,0.509733869,-0.509733869
+Levodopa,Failed ,Lanabecestat,0.342448655,-0.342448655
+Levodopa,Failed ,Verubecestat,0.22840663,-0.22840663
+Levodopa,Failed ,Azeliragon,0.038282181,-0.038282181
+Levodopa,Failed ,Nilvadipine,0.235222174,-0.235222174
+Levodopa,Failed ,Pioglitazone,0.157626252,-0.157626252
+Levodopa,Failed ,Tarenflurbil,0.932217432,-0.932217432
+Levodopa,Phase 1,Allopregnanolone,0.245559175,0.049111835
+Levodopa,Phase 1,Contraloid acetate,0.376754341,0.075350868
+Levodopa,Phase 1,Dabigatran,0.55416635,0.11083327
+Levodopa,Phase 1,Efavirenz,0.280042068,0.056008414
+Levodopa,Phase 1,Emtricitabine,0.469026126,0.093805225
+Levodopa,Phase 1,Salsalate,0.037374097,0.007474819
+Levodopa,Phase 1,Telmisartan,0.419994373,0.083998875
+Levodopa,Phase 1,Trehalose,0.685125297,0.137025059
+Levodopa,Phase 1,Vorinostat,0.317019284,0.063403857
+Levodopa,Phase 2,Baricitinib,0.730118087,0.292047235
+Levodopa,Phase 2,Bromocriptine,0.793177555,0.317271022
+Levodopa,Phase 2,CY6463,0.133385243,0.053354097
+Levodopa,Phase 2,Dapagliflozin,0.446667594,0.178667037
+Levodopa,Phase 2,Deferiprone,0.366069578,0.146427831
+Levodopa,Phase 2,Lenalidomide,0.492824125,0.19712965
+Levodopa,Phase 3,Brexpiprazole,0.078947368,0.047368421
+Levodopa,Phase 3,Hydralazine,0.083333333,0.05
+Levodopa,Phase 3,Metformin,0.047619048,0.028571429
+Levodopa,Phase 3,Semaglutide,0.115853659,0.069512195
+Levodopa,Phase 3,Tricaprilin,0.102040816,0.06122449
+Levodopa,Phase 3,Nabilone,0.112676056,0.067605634
+Levodopa,Phase 3,Hydralazine,0.083333333,0.05
+Levodopa,Phase 3,Guanfacine,0.166666667,0.1
+Levodopa,Phase 3,Caffeine,0.06122449,0.036734694
+Baclofen,Approved,Donepezil,0.104477612,0.104477612
+Baclofen,Approved,Galantamine,0.056338028,0.056338028
+Baclofen,Approved,Rivastigmine,0.166666667,0.166666667
+Baclofen,Approved,Memantine,0.022222222,0.022222222
+Baclofen,Approved,Brexpiprazole,0.064935065,0.064935065
+Baclofen,Approved,Suvorexant,0.12987013,0.12987013
+Baclofen,Failed ,Elenbecestat,0.326849823,-0.326849823
+Baclofen,Failed ,Atabecestat,0.400324063,-0.400324063
+Baclofen,Failed ,Lanabecestat,0.455540483,-0.455540483
+Baclofen,Failed ,Verubecestat,0.079543726,-0.079543726
+Baclofen,Failed ,Azeliragon,0.986859119,-0.986859119
+Baclofen,Failed ,Nilvadipine,0.507476203,-0.507476203
+Baclofen,Failed ,Pioglitazone,0.404812586,-0.404812586
+Baclofen,Failed ,Tarenflurbil,0.216371439,-0.216371439
+Baclofen,Phase 1,Allopregnanolone,0.370045083,0.074009017
+Baclofen,Phase 1,Contraloid acetate,0.817687632,0.163537526
+Baclofen,Phase 1,Dabigatran,0.066477434,0.013295487
+Baclofen,Phase 1,Efavirenz,0.167828503,0.033565701
+Baclofen,Phase 1,Emtricitabine,0.637308138,0.127461628
+Baclofen,Phase 1,Salsalate,0.143167067,0.028633413
+Baclofen,Phase 1,Telmisartan,0.276095719,0.055219144
+Baclofen,Phase 1,Trehalose,0.755183601,0.15103672
+Baclofen,Phase 1,Vorinostat,0.291303747,0.058260749
+Baclofen,Phase 2,Baricitinib,0.958886263,0.383554505
+Baclofen,Phase 2,Bromocriptine,0.117503757,0.047001503
+Baclofen,Phase 2,CY6463,0.625162149,0.25006486
+Baclofen,Phase 2,Dapagliflozin,0.894985793,0.357994317
+Baclofen,Phase 2,Deferiprone,0.550228454,0.220091382
+Baclofen,Phase 2,Lenalidomide,0.570559366,0.228223746
+Baclofen,Phase 3,Brexpiprazole,0.064935065,0.038961039
+Baclofen,Phase 3,Hydralazine,0.083333333,0.05
+Baclofen,Phase 3,Metformin,0.047619048,0.028571429
+Baclofen,Phase 3,Semaglutide,0.076470588,0.045882353
+Baclofen,Phase 3,Tricaprilin,0.102040816,0.06122449
+Baclofen,Phase 3,Nabilone,0.067567568,0.040540541
+Baclofen,Phase 3,Hydralazine,0.083333333,0.05
+Baclofen,Phase 3,Guanfacine,0.217391304,0.130434783
+Baclofen,Phase 3,Caffeine,0.06122449,0.036734694
+Tizanidine,Approved,Donepezil,0.076923077,0.076923077
+Tizanidine,Approved,Galantamine,0.0625,0.0625
+Tizanidine,Approved,Rivastigmine,0.057971014,0.057971014
+Tizanidine,Approved,Memantine,0.037037037,0.037037037
+Tizanidine,Approved,Brexpiprazole,0.069767442,0.069767442
+Tizanidine,Approved,Suvorexant,0.102272727,0.102272727
+Tizanidine,Failed ,Elenbecestat,0.646308562,-0.646308562
+Tizanidine,Failed ,Atabecestat,0.292335754,-0.292335754
+Tizanidine,Failed ,Lanabecestat,0.560641163,-0.560641163
+Tizanidine,Failed ,Verubecestat,0.724063595,-0.724063595
+Tizanidine,Failed ,Azeliragon,0.652449043,-0.652449043
+Tizanidine,Failed ,Nilvadipine,0.882204721,-0.882204721
+Tizanidine,Failed ,Pioglitazone,0.653053682,-0.653053682
+Tizanidine,Failed ,Tarenflurbil,0.430960585,-0.430960585
+Tizanidine,Phase 1,Allopregnanolone,0.196409003,0.039281801
+Tizanidine,Phase 1,Contraloid acetate,0.994771668,0.198954334
+Tizanidine,Phase 1,Dabigatran,0.360912955,0.072182591
+Tizanidine,Phase 1,Efavirenz,0.175845294,0.035169059
+Tizanidine,Phase 1,Emtricitabine,0.490125692,0.098025138
+Tizanidine,Phase 1,Salsalate,0.350036892,0.070007378
+Tizanidine,Phase 1,Telmisartan,0.082493614,0.016498723
+Tizanidine,Phase 1,Trehalose,0.69678056,0.139356112
+Tizanidine,Phase 1,Vorinostat,0.785514889,0.157102978
+Tizanidine,Phase 2,Baricitinib,0.381862319,0.152744928
+Tizanidine,Phase 2,Bromocriptine,0.57551646,0.230206584
+Tizanidine,Phase 2,CY6463,0.329519298,0.131807719
+Tizanidine,Phase 2,Dapagliflozin,0.694002914,0.277601166
+Tizanidine,Phase 2,Deferiprone,0.903760213,0.361504085
+Tizanidine,Phase 2,Lenalidomide,0.571180399,0.22847216
+Tizanidine,Phase 3,Brexpiprazole,0.069767442,0.041860465
+Tizanidine,Phase 3,Hydralazine,0.087719298,0.052631579
+Tizanidine,Phase 3,Metformin,0.038461538,0.023076923
+Tizanidine,Phase 3,Semaglutide,0.032085561,0.019251337
+Tizanidine,Phase 3,Tricaprilin,0,0
+Tizanidine,Phase 3,Nabilone,0.047058824,0.028235294
+Tizanidine,Phase 3,Hydralazine,0.087719298,0.052631579
+Tizanidine,Phase 3,Guanfacine,0.137931034,0.082758621
+Tizanidine,Phase 3,Caffeine,0.050847458,0.030508475
+Dantrolene,Approved,Donepezil,0.083333333,0.083333333
+Dantrolene,Approved,Galantamine,0.095238095,0.095238095
+Dantrolene,Approved,Rivastigmine,0.052631579,0.052631579
+Dantrolene,Approved,Memantine,0.05,0.05
+Dantrolene,Approved,Brexpiprazole,0.1,0.1
+Dantrolene,Approved,Suvorexant,0.083333333,0.083333333
+Dantrolene,Failed ,Elenbecestat,0.4348352,-0.4348352
+Dantrolene,Failed ,Atabecestat,0.653520582,-0.653520582
+Dantrolene,Failed ,Lanabecestat,0.460823771,-0.460823771
+Dantrolene,Failed ,Verubecestat,0.551489339,-0.551489339
+Dantrolene,Failed ,Azeliragon,0.048705174,-0.048705174
+Dantrolene,Failed ,Nilvadipine,0.994373591,-0.994373591
+Dantrolene,Failed ,Pioglitazone,0.297908257,-0.297908257
+Dantrolene,Failed ,Tarenflurbil,0.517455492,-0.517455492
+Dantrolene,Phase 1,Allopregnanolone,0.91913884,0.183827768
+Dantrolene,Phase 1,Contraloid acetate,0.480483237,0.096096647
+Dantrolene,Phase 1,Dabigatran,0.580727463,0.116145493
+Dantrolene,Phase 1,Efavirenz,0.926842442,0.185368488
+Dantrolene,Phase 1,Emtricitabine,0.158735775,0.031747155
+Dantrolene,Phase 1,Salsalate,0.815275011,0.163055002
+Dantrolene,Phase 1,Telmisartan,0.154200675,0.030840135
+Dantrolene,Phase 1,Trehalose,0.249068881,0.049813776
+Dantrolene,Phase 1,Vorinostat,0.256056677,0.051211335
+Dantrolene,Phase 2,Baricitinib,0.119086683,0.047634673
+Dantrolene,Phase 2,Bromocriptine,0.552918421,0.221167368
+Dantrolene,Phase 2,CY6463,0.066065155,0.026426062
+Dantrolene,Phase 2,Dapagliflozin,0.060938627,0.024375451
+Dantrolene,Phase 2,Deferiprone,0.200449966,0.080179986
+Dantrolene,Phase 2,Lenalidomide,0.066393856,0.026557543
+Dantrolene,Phase 3,Brexpiprazole,0.1,0.06
+Dantrolene,Phase 3,Hydralazine,0.045454545,0.027272727
+Dantrolene,Phase 3,Metformin,0,0
+Dantrolene,Phase 3,Semaglutide,0.052631579,0.031578947
+Dantrolene,Phase 3,Tricaprilin,0.014285714,0.008571429
+Dantrolene,Phase 3,Nabilone,0.11627907,0.069767442
+Dantrolene,Phase 3,Hydralazine,0.045454545,0.027272727
+Dantrolene,Phase 3,Guanfacine,0.057971014,0.034782609
+Dantrolene,Phase 3,Caffeine,0.078125,0.046875
+Gabapentin,Approved,Donepezil,0.061538462,0.061538462
+Gabapentin,Approved,Galantamine,0.076923077,0.076923077
+Gabapentin,Approved,Rivastigmine,0.074074074,0.074074074
+Gabapentin,Approved,Memantine,0.078947368,0.078947368
+Gabapentin,Approved,Brexpiprazole,0.040540541,0.040540541
+Gabapentin,Approved,Suvorexant,0.051282051,0.051282051
+Gabapentin,Failed ,Elenbecestat,0.029247618,-0.029247618
+Gabapentin,Failed ,Atabecestat,0.152695786,-0.152695786
+Gabapentin,Failed ,Lanabecestat,0.169512233,-0.169512233
+Gabapentin,Failed ,Verubecestat,0.514604455,-0.514604455
+Gabapentin,Failed ,Azeliragon,0.397914128,-0.397914128
+Gabapentin,Failed ,Nilvadipine,0.092810218,-0.092810218
+Gabapentin,Failed ,Pioglitazone,0.006997689,-0.006997689
+Gabapentin,Failed ,Tarenflurbil,0.03983707,-0.03983707
+Gabapentin,Phase 1,Allopregnanolone,0.517126703,0.103425341
+Gabapentin,Phase 1,Contraloid acetate,0.275765576,0.055153115
+Gabapentin,Phase 1,Dabigatran,0.400926298,0.08018526
+Gabapentin,Phase 1,Efavirenz,0.158674164,0.031734833
+Gabapentin,Phase 1,Emtricitabine,0.033122934,0.006624587
+Gabapentin,Phase 1,Salsalate,0.755012624,0.151002525
+Gabapentin,Phase 1,Telmisartan,0.531281684,0.106256337
+Gabapentin,Phase 1,Trehalose,0.930117555,0.186023511
+Gabapentin,Phase 1,Vorinostat,0.834599316,0.166919863
+Gabapentin,Phase 2,Baricitinib,0.28740481,0.114961924
+Gabapentin,Phase 2,Bromocriptine,0.483261002,0.193304401
+Gabapentin,Phase 2,CY6463,0.004828964,0.001931586
+Gabapentin,Phase 2,Dapagliflozin,0.987818696,0.395127478
+Gabapentin,Phase 2,Deferiprone,0.772110862,0.308844345
+Gabapentin,Phase 2,Lenalidomide,0.721861787,0.288744715
+Gabapentin,Phase 3,Brexpiprazole,0.040540541,0.024324324
+Gabapentin,Phase 3,Hydralazine,0.02173913,0.013043478
+Gabapentin,Phase 3,Metformin,0.054054054,0.032432432
+Gabapentin,Phase 3,Semaglutide,0.040935673,0.024561404
+Gabapentin,Phase 3,Tricaprilin,0.088888889,0.053333333
+Gabapentin,Phase 3,Nabilone,0.072463768,0.043478261
+Gabapentin,Phase 3,Hydralazine,0.02173913,0.013043478
+Gabapentin,Phase 3,Guanfacine,0.108695652,0.065217391
+Gabapentin,Phase 3,Caffeine,0.02173913,0.013043478
+Pregabalin,Approved,Donepezil,0.061538462,0.061538462
+Pregabalin,Approved,Galantamine,0.029411765,0.029411765
+Pregabalin,Approved,Rivastigmine,0.137254902,0.137254902
+Pregabalin,Approved,Memantine,0.051282051,0.051282051
+Pregabalin,Approved,Brexpiprazole,0.026666667,0.026666667
+Pregabalin,Approved,Suvorexant,0.051282051,0.051282051
+Pregabalin,Failed ,Elenbecestat,0.729965712,-0.729965712
+Pregabalin,Failed ,Atabecestat,0.3473663,-0.3473663
+Pregabalin,Failed ,Lanabecestat,0.490872332,-0.490872332
+Pregabalin,Failed ,Verubecestat,0.203184258,-0.203184258
+Pregabalin,Failed ,Azeliragon,0.973202972,-0.973202972
+Pregabalin,Failed ,Nilvadipine,0.857362914,-0.857362914
+Pregabalin,Failed ,Pioglitazone,0.993553494,-0.993553494
+Pregabalin,Failed ,Tarenflurbil,0.306923552,-0.306923552
+Pregabalin,Phase 1,Allopregnanolone,0.864425483,0.172885097
+Pregabalin,Phase 1,Contraloid acetate,0.611615103,0.122323021
+Pregabalin,Phase 1,Dabigatran,0.04021477,0.008042954
+Pregabalin,Phase 1,Efavirenz,0.246851956,0.049370391
+Pregabalin,Phase 1,Emtricitabine,0.636151557,0.127230311
+Pregabalin,Phase 1,Salsalate,0.357813127,0.071562625
+Pregabalin,Phase 1,Telmisartan,0.028524439,0.005704888
+Pregabalin,Phase 1,Trehalose,0.446696363,0.089339273
+Pregabalin,Phase 1,Vorinostat,0.474404075,0.094880815
+Pregabalin,Phase 2,Baricitinib,0.461240447,0.184496179
+Pregabalin,Phase 2,Bromocriptine,0.659517317,0.263806927
+Pregabalin,Phase 2,CY6463,0.317451069,0.126980428
+Pregabalin,Phase 2,Dapagliflozin,0.634545426,0.25381817
+Pregabalin,Phase 2,Deferiprone,0.681874054,0.272749622
+Pregabalin,Phase 2,Lenalidomide,0.555165234,0.222066093
+Pregabalin,Phase 3,Brexpiprazole,0.026666667,0.016
+Pregabalin,Phase 3,Hydralazine,0.02173913,0.013043478
+Pregabalin,Phase 3,Metformin,0.083333333,0.05
+Pregabalin,Phase 3,Semaglutide,0.09202454,0.055214724
+Pregabalin,Phase 3,Tricaprilin,0.139534884,0.08372093
+Pregabalin,Phase 3,Nabilone,0.057142857,0.034285714
+Pregabalin,Phase 3,Hydralazine,0.02173913,0.013043478
+Pregabalin,Phase 3,Guanfacine,0.108695652,0.065217391
+Pregabalin,Phase 3,Caffeine,0.044444444,0.026666667
+Topiramate,Approved,Donepezil,0.0875,0.0875
+Topiramate,Approved,Galantamine,0.086419753,0.086419753
+Topiramate,Approved,Rivastigmine,0.070422535,0.070422535
+Topiramate,Approved,Memantine,0.113207547,0.113207547
+Topiramate,Approved,Brexpiprazole,0.043956044,0.043956044
+Topiramate,Approved,Suvorexant,0.063829787,0.063829787
+Topiramate,Failed ,Elenbecestat,0.139640306,-0.139640306
+Topiramate,Failed ,Atabecestat,0.064217359,-0.064217359
+Topiramate,Failed ,Lanabecestat,0.594487857,-0.594487857
+Topiramate,Failed ,Verubecestat,0.173244345,-0.173244345
+Topiramate,Failed ,Azeliragon,0.939238622,-0.939238622
+Topiramate,Failed ,Nilvadipine,0.717019797,-0.717019797
+Topiramate,Failed ,Pioglitazone,0.644025021,-0.644025021
+Topiramate,Failed ,Tarenflurbil,0.969753417,-0.969753417
+Topiramate,Phase 1,Allopregnanolone,0.804497908,0.160899582
+Topiramate,Phase 1,Contraloid acetate,0.866423936,0.173284787
+Topiramate,Phase 1,Dabigatran,0.550039011,0.110007802
+Topiramate,Phase 1,Efavirenz,0.535994601,0.10719892
+Topiramate,Phase 1,Emtricitabine,0.047446057,0.009489211
+Topiramate,Phase 1,Salsalate,0.300265191,0.060053038
+Topiramate,Phase 1,Telmisartan,0.705205148,0.14104103
+Topiramate,Phase 1,Trehalose,0.872515122,0.174503024
+Topiramate,Phase 1,Vorinostat,0.455825591,0.091165118
+Topiramate,Phase 2,Baricitinib,0.332495392,0.132998157
+Topiramate,Phase 2,Bromocriptine,0.816882908,0.326753163
+Topiramate,Phase 2,CY6463,0.528748793,0.211499517
+Topiramate,Phase 2,Dapagliflozin,0.096931087,0.038772435
+Topiramate,Phase 2,Deferiprone,0.055737413,0.022294965
+Topiramate,Phase 2,Lenalidomide,0.747266839,0.298906735
+Topiramate,Phase 3,Brexpiprazole,0.043956044,0.026373626
+Topiramate,Phase 3,Hydralazine,0.015625,0.009375
+Topiramate,Phase 3,Metformin,0.036363636,0.021818182
+Topiramate,Phase 3,Semaglutide,0.037037037,0.022222222
+Topiramate,Phase 3,Tricaprilin,0.080645161,0.048387097
+Topiramate,Phase 3,Nabilone,0.108433735,0.065060241
+Topiramate,Phase 3,Hydralazine,0.015625,0.009375
+Topiramate,Phase 3,Guanfacine,0.045454545,0.027272727
+Topiramate,Phase 3,Caffeine,0.031746032,0.019047619
+Rizatriptan,Approved,Donepezil,0.1375,0.1375
+Rizatriptan,Approved,Galantamine,0.057471264,0.057471264
+Rizatriptan,Approved,Rivastigmine,0.126760563,0.126760563
+Rizatriptan,Approved,Memantine,0.016129032,0.016129032
+Rizatriptan,Approved,Brexpiprazole,0.1,0.1
+Rizatriptan,Approved,Suvorexant,0.083333333,0.083333333
+Rizatriptan,Failed ,Elenbecestat,0.998087992,-0.998087992
+Rizatriptan,Failed ,Atabecestat,0.652944364,-0.652944364
+Rizatriptan,Failed ,Lanabecestat,0.17802642,-0.17802642
+Rizatriptan,Failed ,Verubecestat,0.821152198,-0.821152198
+Rizatriptan,Failed ,Azeliragon,0.826278955,-0.826278955
+Rizatriptan,Failed ,Nilvadipine,0.021203009,-0.021203009
+Rizatriptan,Failed ,Pioglitazone,0.614908413,-0.614908413
+Rizatriptan,Failed ,Tarenflurbil,0.12495787,-0.12495787
+Rizatriptan,Phase 1,Allopregnanolone,0.963519386,0.192703877
+Rizatriptan,Phase 1,Contraloid acetate,0.452157658,0.090431532
+Rizatriptan,Phase 1,Dabigatran,0.276539277,0.055307855
+Rizatriptan,Phase 1,Efavirenz,0.174789053,0.034957811
+Rizatriptan,Phase 1,Emtricitabine,0.92886236,0.185772472
+Rizatriptan,Phase 1,Salsalate,0.141386966,0.028277393
+Rizatriptan,Phase 1,Telmisartan,0.398498036,0.079699607
+Rizatriptan,Phase 1,Trehalose,0.431183561,0.086236712
+Rizatriptan,Phase 1,Vorinostat,0.59486963,0.118973926
+Rizatriptan,Phase 2,Baricitinib,0.514272701,0.20570908
+Rizatriptan,Phase 2,Bromocriptine,0.712236216,0.284894487
+Rizatriptan,Phase 2,CY6463,0.452449663,0.180979865
+Rizatriptan,Phase 2,Dapagliflozin,0.191940139,0.076776055
+Rizatriptan,Phase 2,Deferiprone,0.759923269,0.303969308
+Rizatriptan,Phase 2,Lenalidomide,0.569031181,0.227612472
+Rizatriptan,Phase 3,Brexpiprazole,0.1,0.06
+Rizatriptan,Phase 3,Hydralazine,0.095238095,0.057142857
+Rizatriptan,Phase 3,Metformin,0.051724138,0.031034483
+Rizatriptan,Phase 3,Semaglutide,0.117318436,0.070391061
+Rizatriptan,Phase 3,Tricaprilin,0.028985507,0.017391304
+Rizatriptan,Phase 3,Nabilone,0.078651685,0.047191011
+Rizatriptan,Phase 3,Hydralazine,0.095238095,0.057142857
+Rizatriptan,Phase 3,Guanfacine,0.057971014,0.034782609
+Rizatriptan,Phase 3,Caffeine,0.112903226,0.067741935
+Ergotamine,Approved,Donepezil,0.18018018,0.18018018
+Ergotamine,Approved,Galantamine,0.128205128,0.128205128
+Ergotamine,Approved,Rivastigmine,0.090909091,0.090909091
+Ergotamine,Approved,Memantine,0.051020408,0.051020408
+Ergotamine,Approved,Brexpiprazole,0.130081301,0.130081301
+Ergotamine,Approved,Suvorexant,0.099236641,0.099236641
+Ergotamine,Failed ,Elenbecestat,0.010111068,-0.010111068
+Ergotamine,Failed ,Atabecestat,0.542377397,-0.542377397
+Ergotamine,Failed ,Lanabecestat,0.159705646,-0.159705646
+Ergotamine,Failed ,Verubecestat,0.155109631,-0.155109631
+Ergotamine,Failed ,Azeliragon,0.674110739,-0.674110739
+Ergotamine,Failed ,Nilvadipine,0.102473564,-0.102473564
+Ergotamine,Failed ,Pioglitazone,0.12735515,-0.12735515
+Ergotamine,Failed ,Tarenflurbil,0.182069043,-0.182069043
+Ergotamine,Phase 1,Allopregnanolone,0.781409204,0.156281841
+Ergotamine,Phase 1,Contraloid acetate,0.869011611,0.173802322
+Ergotamine,Phase 1,Dabigatran,0.96925126,0.193850252
+Ergotamine,Phase 1,Efavirenz,0.834542332,0.166908466
+Ergotamine,Phase 1,Emtricitabine,0.298474706,0.059694941
+Ergotamine,Phase 1,Salsalate,0.371416295,0.074283259
+Ergotamine,Phase 1,Telmisartan,0.150971143,0.030194229
+Ergotamine,Phase 1,Trehalose,0.789869319,0.157973864
+Ergotamine,Phase 1,Vorinostat,0.675400238,0.135080048
+Ergotamine,Phase 2,Baricitinib,0.56529885,0.22611954
+Ergotamine,Phase 2,Bromocriptine,0.800846173,0.320338469
+Ergotamine,Phase 2,CY6463,0.944241664,0.377696665
+Ergotamine,Phase 2,Dapagliflozin,0.050022448,0.020008979
+Ergotamine,Phase 2,Deferiprone,0.604932245,0.241972898
+Ergotamine,Phase 2,Lenalidomide,0.846582353,0.338632941
+Ergotamine,Phase 3,Brexpiprazole,0.130081301,0.07804878
+Ergotamine,Phase 3,Hydralazine,0.058252427,0.034951456
+Ergotamine,Phase 3,Metformin,0.030612245,0.018367347
+Ergotamine,Phase 3,Semaglutide,0.11627907,0.069767442
+Ergotamine,Phase 3,Tricaprilin,0.047169811,0.028301887
+Ergotamine,Phase 3,Nabilone,0.114754098,0.068852459
+Ergotamine,Phase 3,Hydralazine,0.058252427,0.034951456
+Ergotamine,Phase 3,Guanfacine,0.097087379,0.058252427
+Ergotamine,Phase 3,Caffeine,0.068627451,0.041176471
+Propranolol,Approved,Donepezil,0.138888889,0.138888889
+Propranolol,Approved,Galantamine,0.121621622,0.121621622
+Propranolol,Approved,Rivastigmine,0.183333333,0.183333333
+Propranolol,Approved,Memantine,0.018867925,0.018867925
+Propranolol,Approved,Brexpiprazole,0.125,0.125
+Propranolol,Approved,Suvorexant,0.06741573,0.06741573
+Propranolol,Failed ,Elenbecestat,0.31220412,-0.31220412
+Propranolol,Failed ,Atabecestat,0.861936846,-0.861936846
+Propranolol,Failed ,Lanabecestat,0.520168738,-0.520168738
+Propranolol,Failed ,Verubecestat,0.825597731,-0.825597731
+Propranolol,Failed ,Azeliragon,0.020872956,-0.020872956
+Propranolol,Failed ,Nilvadipine,0.904853715,-0.904853715
+Propranolol,Failed ,Pioglitazone,0.265518954,-0.265518954
+Propranolol,Failed ,Tarenflurbil,0.674225624,-0.674225624
+Propranolol,Phase 1,Allopregnanolone,0.40887687,0.081775374
+Propranolol,Phase 1,Contraloid acetate,0.1274061,0.02548122
+Propranolol,Phase 1,Dabigatran,0.041342236,0.008268447
+Propranolol,Phase 1,Efavirenz,0.36239071,0.072478142
+Propranolol,Phase 1,Emtricitabine,0.40398894,0.080797788
+Propranolol,Phase 1,Salsalate,0.367366467,0.073473293
+Propranolol,Phase 1,Telmisartan,0.894125423,0.178825085
+Propranolol,Phase 1,Trehalose,0.981688537,0.196337707
+Propranolol,Phase 1,Vorinostat,0.048524547,0.009704909
+Propranolol,Phase 2,Baricitinib,0.847853138,0.339141255
+Propranolol,Phase 2,Bromocriptine,0.251936235,0.100774494
+Propranolol,Phase 2,CY6463,0.518026931,0.207210772
+Propranolol,Phase 2,Dapagliflozin,0.860811264,0.344324505
+Propranolol,Phase 2,Deferiprone,0.267624959,0.107049983
+Propranolol,Phase 2,Lenalidomide,0.771360052,0.308544021
+Propranolol,Phase 3,Brexpiprazole,0.125,0.075
+Propranolol,Phase 3,Hydralazine,0.2,0.12
+Propranolol,Phase 3,Metformin,0.083333333,0.05
+Propranolol,Phase 3,Semaglutide,0.097701149,0.05862069
+Propranolol,Phase 3,Tricaprilin,0.107142857,0.064285714
+Propranolol,Phase 3,Nabilone,0.06097561,0.036585366
+Propranolol,Phase 3,Hydralazine,0.2,0.12
+Propranolol,Phase 3,Guanfacine,0.163636364,0.098181818
+Propranolol,Phase 3,Caffeine,0.071428571,0.042857143
+Salicylic acid,Approved,Donepezil,0.120689655,0.120689655
+Salicylic acid,Approved,Galantamine,0.064516129,0.064516129
+Salicylic acid,Approved,Rivastigmine,0.14893617,0.14893617
+Salicylic acid,Approved,Memantine,0,0
+Salicylic acid,Approved,Brexpiprazole,0.073529412,0.073529412
+Salicylic acid,Approved,Suvorexant,0.098591549,0.098591549
+Salicylic acid,Failed ,Elenbecestat,0.278932033,-0.278932033
+Salicylic acid,Failed ,Atabecestat,0.349657232,-0.349657232
+Salicylic acid,Failed ,Lanabecestat,0.750388708,-0.750388708
+Salicylic acid,Failed ,Verubecestat,0.224528911,-0.224528911
+Salicylic acid,Failed ,Azeliragon,0.708425618,-0.708425618
+Salicylic acid,Failed ,Nilvadipine,0.397612929,-0.397612929
+Salicylic acid,Failed ,Pioglitazone,0.444790409,-0.444790409
+Salicylic acid,Failed ,Tarenflurbil,0.677722255,-0.677722255
+Salicylic acid,Phase 1,Allopregnanolone,0.704545771,0.140909154
+Salicylic acid,Phase 1,Contraloid acetate,0.473559879,0.094711976
+Salicylic acid,Phase 1,Dabigatran,0.137536122,0.027507224
+Salicylic acid,Phase 1,Efavirenz,0.830869231,0.166173846
+Salicylic acid,Phase 1,Emtricitabine,0.551098653,0.110219731
+Salicylic acid,Phase 1,Salsalate,0.538888666,0.107777733
+Salicylic acid,Phase 1,Telmisartan,0.951631285,0.190326257
+Salicylic acid,Phase 1,Trehalose,0.052669998,0.010534
+Salicylic acid,Phase 1,Vorinostat,0.129269529,0.025853906
+Salicylic acid,Phase 2,Baricitinib,0.517134432,0.206853773
+Salicylic acid,Phase 2,Bromocriptine,0.316377804,0.126551122
+Salicylic acid,Phase 2,CY6463,0.303286657,0.121314663
+Salicylic acid,Phase 2,Dapagliflozin,0.811422588,0.324569035
+Salicylic acid,Phase 2,Deferiprone,0.104623932,0.041849573
+Salicylic acid,Phase 2,Lenalidomide,0.60670843,0.242683372
+Salicylic acid,Phase 3,Brexpiprazole,0.073529412,0.044117647
+Salicylic acid,Phase 3,Hydralazine,0.131578947,0.078947368
+Salicylic acid,Phase 3,Metformin,0.029411765,0.017647059
+Salicylic acid,Phase 3,Semaglutide,0.067484663,0.040490798
+Salicylic acid,Phase 3,Tricaprilin,0.071428571,0.042857143
+Salicylic acid,Phase 3,Nabilone,0.09375,0.05625
+Salicylic acid,Phase 3,Hydralazine,0.131578947,0.078947368
+Salicylic acid,Phase 3,Guanfacine,0.175,0.105
+Salicylic acid,Phase 3,Caffeine,0.075,0.045
+Amodiaquine,Approved,Donepezil,0.094117647,0.094117647
+Amodiaquine,Approved,Galantamine,0.068181818,0.068181818
+Amodiaquine,Approved,Rivastigmine,0.138888889,0.138888889
+Amodiaquine,Approved,Memantine,0.015625,0.015625
+Amodiaquine,Approved,Brexpiprazole,0.074468085,0.074468085
+Amodiaquine,Approved,Suvorexant,0.164835165,0.164835165
+Amodiaquine,Failed ,Elenbecestat,0.504538905,-0.504538905
+Amodiaquine,Failed ,Atabecestat,0.722851498,-0.722851498
+Amodiaquine,Failed ,Lanabecestat,0.701668145,-0.701668145
+Amodiaquine,Failed ,Verubecestat,0.169816576,-0.169816576
+Amodiaquine,Failed ,Azeliragon,0.394106537,-0.394106537
+Amodiaquine,Failed ,Nilvadipine,0.542027372,-0.542027372
+Amodiaquine,Failed ,Pioglitazone,0.532417733,-0.532417733
+Amodiaquine,Failed ,Tarenflurbil,0.36059781,-0.36059781
+Amodiaquine,Phase 1,Allopregnanolone,0.672496764,0.134499353
+Amodiaquine,Phase 1,Contraloid acetate,0.157752759,0.031550552
+Amodiaquine,Phase 1,Dabigatran,0.452691418,0.090538284
+Amodiaquine,Phase 1,Efavirenz,0.922793727,0.184558745
+Amodiaquine,Phase 1,Emtricitabine,0.873572883,0.174714577
+Amodiaquine,Phase 1,Salsalate,0.135747907,0.027149581
+Amodiaquine,Phase 1,Telmisartan,0.467598561,0.093519712
+Amodiaquine,Phase 1,Trehalose,0.373693952,0.07473879
+Amodiaquine,Phase 1,Vorinostat,0.899660372,0.179932074
+Amodiaquine,Phase 2,Baricitinib,0.865450599,0.346180239
+Amodiaquine,Phase 2,Bromocriptine,0.774422,0.3097688
+Amodiaquine,Phase 2,CY6463,0.792103164,0.316841266
+Amodiaquine,Phase 2,Dapagliflozin,0.723914609,0.289565844
+Amodiaquine,Phase 2,Deferiprone,0.730990186,0.292396075
+Amodiaquine,Phase 2,Lenalidomide,0.775396518,0.310158607
+Amodiaquine,Phase 3,Brexpiprazole,0.074468085,0.044680851
+Amodiaquine,Phase 3,Hydralazine,0.092307692,0.055384615
+Amodiaquine,Phase 3,Metformin,0.06779661,0.040677966
+Amodiaquine,Phase 3,Semaglutide,0.080213904,0.048128342
+Amodiaquine,Phase 3,Tricaprilin,0.057971014,0.034782609
+Amodiaquine,Phase 3,Nabilone,0.113636364,0.068181818
+Amodiaquine,Phase 3,Hydralazine,0.092307692,0.055384615
+Amodiaquine,Phase 3,Guanfacine,0.119402985,0.071641791
+Amodiaquine,Phase 3,Caffeine,0.092307692,0.055384615
+Hexachlorophene,Approved,Donepezil,0.080645161,0.080645161
+Hexachlorophene,Approved,Galantamine,0.0625,0.0625
+Hexachlorophene,Approved,Rivastigmine,0.098039216,0.098039216
+Hexachlorophene,Approved,Memantine,0,0
+Hexachlorophene,Approved,Brexpiprazole,0.056338028,0.056338028
+Hexachlorophene,Approved,Suvorexant,0.081081081,0.081081081
+Hexachlorophene,Failed ,Elenbecestat,0.005537899,-0.005537899
+Hexachlorophene,Failed ,Atabecestat,0.518523491,-0.518523491
+Hexachlorophene,Failed ,Lanabecestat,0.407661583,-0.407661583
+Hexachlorophene,Failed ,Verubecestat,0.542002309,-0.542002309
+Hexachlorophene,Failed ,Azeliragon,0.428766579,-0.428766579
+Hexachlorophene,Failed ,Nilvadipine,0.842064341,-0.842064341
+Hexachlorophene,Failed ,Pioglitazone,0.303133244,-0.303133244
+Hexachlorophene,Failed ,Tarenflurbil,0.389844241,-0.389844241
+Hexachlorophene,Phase 1,Allopregnanolone,0.263543425,0.052708685
+Hexachlorophene,Phase 1,Contraloid acetate,0.294934792,0.058986958
+Hexachlorophene,Phase 1,Dabigatran,0.920935002,0.184187
+Hexachlorophene,Phase 1,Efavirenz,0.422472443,0.084494489
+Hexachlorophene,Phase 1,Emtricitabine,0.014902038,0.002980408
+Hexachlorophene,Phase 1,Salsalate,0.527425258,0.105485052
+Hexachlorophene,Phase 1,Telmisartan,0.618720513,0.123744103
+Hexachlorophene,Phase 1,Trehalose,0.970332266,0.194066453
+Hexachlorophene,Phase 1,Vorinostat,0.199948393,0.039989679
+Hexachlorophene,Phase 2,Baricitinib,0.994721485,0.397888594
+Hexachlorophene,Phase 2,Bromocriptine,0.071787099,0.02871484
+Hexachlorophene,Phase 2,CY6463,0.565917279,0.226366912
+Hexachlorophene,Phase 2,Dapagliflozin,0.330810988,0.132324395
+Hexachlorophene,Phase 2,Deferiprone,0.810196083,0.324078433
+Hexachlorophene,Phase 2,Lenalidomide,0.434039773,0.173615909
+Hexachlorophene,Phase 3,Brexpiprazole,0.056338028,0.033802817
+Hexachlorophene,Phase 3,Hydralazine,0.046511628,0.027906977
+Hexachlorophene,Phase 3,Metformin,0.027777778,0.016666667
+Hexachlorophene,Phase 3,Semaglutide,0.041420118,0.024852071
+Hexachlorophene,Phase 3,Tricaprilin,0.044444444,0.026666667
+Hexachlorophene,Phase 3,Nabilone,0.090909091,0.054545455
+Hexachlorophene,Phase 3,Hydralazine,0.046511628,0.027906977
+Hexachlorophene,Phase 3,Guanfacine,0.195121951,0.117073171
+Hexachlorophene,Phase 3,Caffeine,0.046511628,0.027906977
+Fluorouracil,Approved,Donepezil,0.064516129,0.064516129
+Fluorouracil,Approved,Galantamine,0.046875,0.046875
+Fluorouracil,Approved,Rivastigmine,0.057692308,0.057692308
+Fluorouracil,Approved,Memantine,0,0
+Fluorouracil,Approved,Brexpiprazole,0.088235294,0.088235294
+Fluorouracil,Approved,Suvorexant,0.039473684,0.039473684
+Fluorouracil,Failed ,Elenbecestat,0.495326605,-0.495326605
+Fluorouracil,Failed ,Atabecestat,0.69378509,-0.69378509
+Fluorouracil,Failed ,Lanabecestat,0.044456515,-0.044456515
+Fluorouracil,Failed ,Verubecestat,0.559408088,-0.559408088
+Fluorouracil,Failed ,Azeliragon,0.750927592,-0.750927592
+Fluorouracil,Failed ,Nilvadipine,0.368719175,-0.368719175
+Fluorouracil,Failed ,Pioglitazone,0.716138786,-0.716138786
+Fluorouracil,Failed ,Tarenflurbil,0.554599134,-0.554599134
+Fluorouracil,Phase 1,Allopregnanolone,0.42209641,0.084419282
+Fluorouracil,Phase 1,Contraloid acetate,0.357510594,0.071502119
+Fluorouracil,Phase 1,Dabigatran,0.636134343,0.127226869
+Fluorouracil,Phase 1,Efavirenz,0.02977673,0.005955346
+Fluorouracil,Phase 1,Emtricitabine,0.811177438,0.162235488
+Fluorouracil,Phase 1,Salsalate,0.241287656,0.048257531
+Fluorouracil,Phase 1,Telmisartan,0.719095107,0.143819021
+Fluorouracil,Phase 1,Trehalose,0.786469235,0.157293847
+Fluorouracil,Phase 1,Vorinostat,0.799425945,0.159885189
+Fluorouracil,Phase 2,Baricitinib,0.816024384,0.326409754
+Fluorouracil,Phase 2,Bromocriptine,0.771229255,0.308491702
+Fluorouracil,Phase 2,CY6463,0.994097005,0.397638802
+Fluorouracil,Phase 2,Dapagliflozin,0.600129501,0.2400518
+Fluorouracil,Phase 2,Deferiprone,0.007321735,0.002928694
+Fluorouracil,Phase 2,Lenalidomide,0.54201364,0.216805456
+Fluorouracil,Phase 3,Brexpiprazole,0.088235294,0.052941176
+Fluorouracil,Phase 3,Hydralazine,0.047619048,0.028571429
+Fluorouracil,Phase 3,Metformin,0,0
+Fluorouracil,Phase 3,Semaglutide,0.047904192,0.028742515
+Fluorouracil,Phase 3,Tricaprilin,0.022222222,0.013333333
+Fluorouracil,Phase 3,Nabilone,0.059701493,0.035820896
+Fluorouracil,Phase 3,Hydralazine,0.047619048,0.028571429
+Fluorouracil,Phase 3,Guanfacine,0.066666667,0.04
+Fluorouracil,Phase 3,Caffeine,0.1,0.06
+Nicotine,Approved,Donepezil,0.166666667,0.166666667
+Nicotine,Approved,Galantamine,0.130434783,0.130434783
+Nicotine,Approved,Rivastigmine,0.1,0.1
+Nicotine,Approved,Memantine,0.065217391,0.065217391
+Nicotine,Approved,Brexpiprazole,0.118421053,0.118421053
+Nicotine,Approved,Suvorexant,0.139240506,0.139240506
+Nicotine,Failed ,Elenbecestat,0.701160922,-0.701160922
+Nicotine,Failed ,Atabecestat,0.407679751,-0.407679751
+Nicotine,Failed ,Lanabecestat,0.193722411,-0.193722411
+Nicotine,Failed ,Verubecestat,0.614912096,-0.614912096
+Nicotine,Failed ,Azeliragon,0.010087527,-0.010087527
+Nicotine,Failed ,Nilvadipine,0.066051711,-0.066051711
+Nicotine,Failed ,Pioglitazone,0.515102731,-0.515102731
+Nicotine,Failed ,Tarenflurbil,0.386962833,-0.386962833
+Nicotine,Phase 1,Allopregnanolone,0.325385408,0.065077082
+Nicotine,Phase 1,Contraloid acetate,0.716581761,0.143316352
+Nicotine,Phase 1,Dabigatran,0.529341729,0.105868346
+Nicotine,Phase 1,Efavirenz,0.219594189,0.043918838
+Nicotine,Phase 1,Emtricitabine,0.81163492,0.162326984
+Nicotine,Phase 1,Salsalate,0.484346492,0.096869298
+Nicotine,Phase 1,Telmisartan,0.726579656,0.145315931
+Nicotine,Phase 1,Trehalose,0.745024353,0.149004871
+Nicotine,Phase 1,Vorinostat,0.558911045,0.111782209
+Nicotine,Phase 2,Baricitinib,0.195066141,0.078026456
+Nicotine,Phase 2,Bromocriptine,0.079842676,0.03193707
+Nicotine,Phase 2,CY6463,0.131178715,0.052471486
+Nicotine,Phase 2,Dapagliflozin,0.227434274,0.09097371
+Nicotine,Phase 2,Deferiprone,0.127236819,0.050894728
+Nicotine,Phase 2,Lenalidomide,0.050579067,0.020231627
+Nicotine,Phase 3,Brexpiprazole,0.118421053,0.071052632
+Nicotine,Phase 3,Hydralazine,0.12244898,0.073469388
+Nicotine,Phase 3,Metformin,0.02173913,0.013043478
+Nicotine,Phase 3,Semaglutide,0.04494382,0.026966292
+Nicotine,Phase 3,Tricaprilin,0.017857143,0.010714286
+Nicotine,Phase 3,Nabilone,0.093333333,0.056
+Nicotine,Phase 3,Hydralazine,0.12244898,0.073469388
+Nicotine,Phase 3,Guanfacine,0.072727273,0.043636364
+Nicotine,Phase 3,Caffeine,0.12244898,0.073469388
+Docetaxel,Approved,Donepezil,0.133333333,0.133333333
+Docetaxel,Approved,Galantamine,0.113821138,0.113821138
+Docetaxel,Approved,Rivastigmine,0.10619469,0.10619469
+Docetaxel,Approved,Memantine,0.058823529,0.058823529
+Docetaxel,Approved,Brexpiprazole,0.074626866,0.074626866
+Docetaxel,Approved,Suvorexant,0.103703704,0.103703704
+Docetaxel,Failed ,Elenbecestat,0.261217684,-0.261217684
+Docetaxel,Failed ,Atabecestat,0.594513069,-0.594513069
+Docetaxel,Failed ,Lanabecestat,0.612632098,-0.612632098
+Docetaxel,Failed ,Verubecestat,0.411940347,-0.411940347
+Docetaxel,Failed ,Azeliragon,0.492864646,-0.492864646
+Docetaxel,Failed ,Nilvadipine,0.482116665,-0.482116665
+Docetaxel,Failed ,Pioglitazone,0.91887404,-0.91887404
+Docetaxel,Failed ,Tarenflurbil,0.969191489,-0.969191489
+Docetaxel,Phase 1,Allopregnanolone,0.601452883,0.120290577
+Docetaxel,Phase 1,Contraloid acetate,0.505770699,0.10115414
+Docetaxel,Phase 1,Dabigatran,0.687000505,0.137400101
+Docetaxel,Phase 1,Efavirenz,0.767967982,0.153593596
+Docetaxel,Phase 1,Emtricitabine,0.946133432,0.189226686
+Docetaxel,Phase 1,Salsalate,0.999920077,0.199984015
+Docetaxel,Phase 1,Telmisartan,0.787523729,0.157504746
+Docetaxel,Phase 1,Trehalose,0.914668669,0.182933734
+Docetaxel,Phase 1,Vorinostat,0.286885111,0.057377022
+Docetaxel,Phase 2,Baricitinib,0.593418642,0.237367457
+Docetaxel,Phase 2,Bromocriptine,0.84032151,0.336128604
+Docetaxel,Phase 2,CY6463,0.038655285,0.015462114
+Docetaxel,Phase 2,Dapagliflozin,0.390884207,0.156353683
+Docetaxel,Phase 2,Deferiprone,0.945396894,0.378158758
+Docetaxel,Phase 2,Lenalidomide,0.756095463,0.302438185
+Docetaxel,Phase 3,Brexpiprazole,0.074626866,0.044776119
+Docetaxel,Phase 3,Hydralazine,0.065420561,0.039252336
+Docetaxel,Phase 3,Metformin,0.029126214,0.017475728
+Docetaxel,Phase 3,Semaglutide,0.088888889,0.053333333
+Docetaxel,Phase 3,Tricaprilin,0.074074074,0.044444444
+Docetaxel,Phase 3,Nabilone,0.119047619,0.071428571
+Docetaxel,Phase 3,Hydralazine,0.065420561,0.039252336
+Docetaxel,Phase 3,Guanfacine,0.072727273,0.043636364
+Docetaxel,Phase 3,Caffeine,0.065420561,0.039252336
